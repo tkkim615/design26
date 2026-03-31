@@ -1,0 +1,182 @@
+Solvent,Smiles,MolWt,LogP,TPSA,HDonors,HAcceptors,RotatableBonds,RingCount,AromaticRings,FractionCSP3,Heteroatoms,Extraction_Power
+"1,2,4-Trimethylbenzene",c1c(ccc(c1C)C)C,120.195,2.612,0,0,0,0,1,1,0.333,0,0
+1-Butanol,OCCCC,74.123,0.779,20.23,1,1,2,0,0,1,1,0
+1-Methylcyclohexanol,CC1(O)CCCCC1,114.188,1.702,20.23,1,1,0,1,0,1,1,0
+1-Propanol,CCCO,60.096,0.389,20.23,1,1,1,0,0,1,1,0
+2-Butanol,CCC(C)O,74.123,0.777,20.23,1,1,1,0,0,1,1,0
+2-Methyl-1-propanol,CC(C)CO,74.123,0.635,20.23,1,1,1,0,0,1,1,0
+2-Methyl-2-propanol,CC(C)(C)O,74.123,0.777,20.23,1,1,0,0,0,1,1,0
+2-Propanol,CC(O)C,60.096,0.387,20.23,1,1,0,0,0,1,1,0
+3-Methyl-1-butanol,OCCC(C)C,88.15,1.025,20.23,1,1,2,0,0,1,1,0
+3-methylcyclohexanol,CC1CCCC(C1)O,114.188,1.557,20.23,1,1,0,1,0,1,1,0
+4-Methyl-2-pentanol,OC(C)CC(C)C,102.177,1.413,20.23,1,1,2,0,0,1,1,0
+4-Methylcyclohexanol,CC1CCC(CC1)O,114.188,1.557,20.23,1,1,0,1,0,1,1,0
+Butyraldehyde,O=CCCC,72.107,0.985,17.07,0,1,2,0,0,0.75,1,0
+Cumene,CC(C)c1ccccc1,120.195,2.81,0,0,0,1,1,1,0.333,0,0
+Cyclohexane,C1CCCCC1,84.162,2.341,0,0,0,0,1,0,1,0,0
+Cyclohexanol,C1CCCCC1O,100.161,1.311,20.23,1,1,0,1,0,1,1,0
+Cyclohexanone,C1CCC(=O)CC1,98.145,1.52,17.07,0,1,0,1,0,0.833,1,0
+Cyclohexene,C1CCC=CC1,82.146,2.117,0,0,0,0,1,0,0.667,0,0
+Diacetone alcohol,CC(=O)CC(C)(C)O,116.16,0.736,37.3,1,2,2,0,0,0.833,2,0
+Diethyl ketone,O=C(CC)CC,86.134,1.376,17.07,0,1,2,0,0,0.8,1,0
+Ethyl butyl ketone,CCC(=O)CCCC,114.188,2.156,17.07,0,1,4,0,0,0.857,1,0
+Ethylene glycol,OCCO,62.068,-1.029,40.46,2,2,1,0,0,1,2,0
+Ethylene glycol monobutyl ether,OCCOCCCC,118.176,0.795,29.46,1,2,5,0,0,1,2,0
+Formamide,O=CN,45.041,-0.899,43.09,1,1,0,0,0,0,2,0
+Heptane,CCCCCCC,100.205,2.977,0,0,0,4,0,0,1,0,0
+Hexylene glycol,CC(CC(C)(C)O)O,118.176,0.528,40.46,2,2,2,0,0,1,2,0
+Isobutyl acetate,O=C(OCC(C)C)C,116.16,1.206,26.3,0,2,2,0,0,0.833,2,0
+Isopentyl acetate,O=C(OCCC(C)C)C,130.187,1.596,26.3,0,2,3,0,0,0.857,2,0
+Isopropyl acetate,CC(OC(C)C)=O,102.133,0.958,26.3,0,2,1,0,0,0.8,2,0
+Mesitylene,Cc1cc(cc(c1)C)C,120.195,2.612,0,0,0,0,1,1,0.333,0,0
+Methyl isobutyl ketone,CC(C)CC(=O)C,100.161,1.622,17.07,0,1,2,0,0,0.833,1,0
+Methyl isopentyl ketone,CC(C)CCC(=O)C,114.188,2.012,17.07,0,1,3,0,0,0.857,1,0
+Methyl pentyl ketone,O=C(C)CCCCC,114.188,2.156,17.07,0,1,4,0,0,0.857,1,0
+Methylcyclohexane,CC1CCCCC1,98.189,2.587,0,0,0,0,1,0,1,0,0
+Nonane,CCCCCCCCC,128.259,3.757,0,0,0,6,0,0,1,0,0
+Octane,CCCCCCCC,114.232,3.367,0,0,0,5,0,0,1,0,0
+o-Xylene,CC1=C(C)C=CC=C1,106.168,2.303,0,0,0,0,1,1,0.25,0,0
+Pentyl acetate,CCCCCOC(C)=O,130.187,1.74,26.3,0,2,4,0,0,0.857,2,0
+p-Xylene,CC1=CC=C(C)C=C1,106.168,2.303,0,0,0,0,1,1,0.25,0,0
+sec-butyl acetate,O=C(OC(C)CC)C,116.16,1.348,26.3,0,2,2,0,0,0.833,2,0
+Tetrachloroethylene,ClC(Cl)=C(Cl)Cl,165.834,3.068,0,0,0,0,0,0,0,4,0
+1-Butanol,OCCCC,74.123,0.779,20.23,1,1,2,0,0,1,1,0
+1-Methylcyclohexanol,CC1(O)CCCCC1,114.188,1.702,20.23,1,1,0,1,0,1,1,0
+1-Propanol,CCCO,60.096,0.389,20.23,1,1,1,0,0,1,1,0
+2-Butanol,CCC(C)O,74.123,0.777,20.23,1,1,1,0,0,1,1,0
+2-Methyl-1-propanol,CC(C)CO,74.123,0.635,20.23,1,1,1,0,0,1,1,0
+2-Methyl-2-propanol,CC(C)(C)O,74.123,0.777,20.23,1,1,0,0,0,1,1,0
+2-Propanol,CC(O)C,60.096,0.387,20.23,1,1,0,0,0,1,1,0
+3-Methyl-1-butanol,OCCC(C)C,88.15,1.025,20.23,1,1,2,0,0,1,1,0
+3-methylcyclohexanol,CC1CCCC(C1)O,114.188,1.557,20.23,1,1,0,1,0,1,1,0
+4-Methyl-2-pentanol,OC(C)CC(C)C,102.177,1.413,20.23,1,1,2,0,0,1,1,0
+4-Methylcyclohexanol,CC1CCC(CC1)O,114.188,1.557,20.23,1,1,0,1,0,1,1,0
+Butyraldehyde,O=CCCC,72.107,0.985,17.07,0,1,2,0,0,0.75,1,0
+Cumene,CC(C)c1ccccc1,120.195,2.81,0,0,0,1,1,1,0.333,0,0
+Cyclohexane,C1CCCCC1,84.162,2.341,0,0,0,0,1,0,1,0,0
+Cyclohexanol,C1CCCCC1O,100.161,1.311,20.23,1,1,0,1,0,1,1,0
+Cyclohexanone,C1CCC(=O)CC1,98.145,1.52,17.07,0,1,0,1,0,0.833,1,0
+Cyclohexene,C1CCC=CC1,82.146,2.117,0,0,0,0,1,0,0.667,0,0
+Diacetone alcohol,CC(=O)CC(C)(C)O,116.16,0.736,37.3,1,2,2,0,0,0.833,2,0
+Diisobutyl ketone,CC(C)CC(=O)C,100.161,1.622,17.07,0,1,2,0,0,0.833,1,0
+Ethyl butyl ketone,CCC(=O)CCCC,114.188,2.156,17.07,0,1,4,0,0,0.857,1,0
+Ethylene glycol,OCCO,62.068,-1.029,40.46,2,2,1,0,0,1,2,0
+Ethylene glycol monobutyl ether,OCCOCCCC,118.176,0.795,29.46,1,2,5,0,0,1,2,0
+Formamide,O=CN,45.041,-0.899,43.09,1,1,0,0,0,0,2,0
+Heptane,CCCCCCC,100.205,2.977,0,0,0,4,0,0,1,0,0
+Hexylene glycol,CC(CC(C)(C)O)O,118.176,0.528,40.46,2,2,2,0,0,1,2,0
+Isobutyl acetate,O=C(OCC(C)C)C,116.16,1.206,26.3,0,2,2,0,0,0.833,2,0
+Isopentyl acetate,O=C(OCCC(C)C)C,130.187,1.596,26.3,0,2,3,0,0,0.857,2,0
+Isopropyl acetate,CC(OC(C)C)=O,102.133,0.958,26.3,0,2,1,0,0,0.8,2,0
+Methyl isobutyl ketone,CC(C)CC(=O)C,100.161,1.622,17.07,0,1,2,0,0,0.833,1,0
+Methyl isopentyl ketone,CC(C)CCC(=O)C,114.188,2.012,17.07,0,1,3,0,0,0.857,1,0
+Methyl pentyl ketone,O=C(C)CCCCC,114.188,2.156,17.07,0,1,4,0,0,0.857,1,0
+Methylcyclohexane,CC1CCCCC1,98.189,2.587,0,0,0,0,1,0,1,0,0
+Nonane,CCCCCCCCC,128.259,3.757,0,0,0,6,0,0,1,0,0
+Octane,CCCCCCCC,114.232,3.367,0,0,0,5,0,0,1,0,0
+o-Xylene,CC1=C(C)C=CC=C1,106.168,2.303,0,0,0,0,1,1,0.25,0,0
+Pentyl acetate,CCCCCOC(C)=O,130.187,1.74,26.3,0,2,4,0,0,0.857,2,0
+p-Xylene,CC1=CC=C(C)C=C1,106.168,2.303,0,0,0,0,1,1,0.25,0,0
+sec-butyl acetate,O=C(OC(C)CC)C,116.16,1.348,26.3,0,2,2,0,0,0.833,2,0
+Tetrachloroethylene,ClC(Cl)=C(Cl)Cl,165.834,3.068,0,0,0,0,0,0,0,4,0
+"1,3-Propanediol",C(CO)CO,76.095,-0.639,40.46,2,2,2,0,0,1,2,0
+1-Methylnaphthalene,CC1=CC=CC2=CC=CC=C12,142.201,3.148,0,0,0,0,2,2,0.091,0,0
+2-Bromobutane,CCC(C)Br,137.02,2.18,0,0,0,1,0,0,1,1,0
+Benzotrichloride,C1=CC=C(C=C1)C(Cl)(Cl)Cl,195.476,3.513,0,0,0,0,1,1,0.143,3,0
+Dimethyl Phthalate,COC(=O)C1=CC=CC=C1C(=O)OC,194.186,1.26,52.6,0,4,2,1,1,0.2,4,0
+Diphenyl ether,C1=CC=C(C=C1)OC2=CC=CC=C2,170.211,3.479,9.23,0,1,2,2,2,0,1,0
+"1,3-Propanediol",C(CO)CO,76.095,-0.639,40.46,2,2,2,0,0,1,2,0
+1-Methylnaphthalene,CC1=CC=CC2=CC=CC=C12,142.201,3.148,0,0,0,0,2,2,0.091,0,0
+2-Bromobutane,CCC(C)Br,137.02,2.18,0,0,0,1,0,0,1,1,0
+Benzotrichloride,C1=CC=C(C=C1)C(Cl)(Cl)Cl,195.476,3.513,0,0,0,0,1,1,0.143,3,0
+Dimethyl Phthalate,COC(=O)C1=CC=CC=C1C(=O)OC,194.186,1.26,52.6,0,4,2,1,1,0.2,4,0
+Diphenyl ether,C1=CC=C(C=C1)OC2=CC=CC=C2,170.211,3.479,9.23,0,1,2,2,2,0,1,0
+1-Methoxy-2-Nitrobenzene,COC1=CC=CC=C1[N+](=O)[O-],153.137,1.603,52.37,0,3,2,1,1,0.143,4,0.002
+"1,2,4-Trimethylbenzene",c1c(ccc(c1C)C)C,120.195,2.612,0,0,0,0,1,1,0.333,0,0.003
+"1,2-Dimethoxybenzene",COC1=CC=CC=C1OC,138.166,1.704,18.46,0,2,2,1,1,0.25,2,0.02
+Benzyl Acetate,CC(=O)OCC1=CC=CC=C1,150.177,1.75,26.3,0,2,2,1,1,0.222,2,0.02
+Diisobutyl ketone,CC(C)CC(=O)C,100.161,1.622,17.07,0,1,2,0,0,0.833,1,0.021
+Mesitylene,Cc1cc(cc(c1)C)C,120.195,2.612,0,0,0,0,1,1,0.333,0,0.021
+"N,N-Diethylformamide",CCN(CC)C=O,101.149,0.485,20.31,0,1,3,0,0,0.8,2,0.021
+2-Ethoxyethanol,CCOCCO,90.122,0.015,29.46,1,2,3,0,0,1,2,0.024
+Benzyl Acetate,CC(=O)OCC1=CC=CC=C1,150.177,1.75,26.3,0,2,2,1,1,0.222,2,0.027
+Ethylbenzene,CCc1ccccc1,106.168,2.249,0,0,0,1,1,1,0.25,0,0.028
+"1,2-Dimethoxybenzene",COC1=CC=CC=C1OC,138.166,1.704,18.46,0,2,2,1,1,0.25,2,0.03
+Butyl acetate,CCCCOC(=O)C,116.16,1.35,26.3,0,2,3,0,0,0.833,2,0.031
+Ethylbenzene,CCc1ccccc1,106.168,2.249,0,0,0,1,1,1,0.25,0,0.031
+1-Methoxy-2-Nitrobenzene,COC1=CC=CC=C1[N+](=O)[O-],153.137,1.603,52.37,0,3,2,1,1,0.143,4,0.035
+"N,N-Diethylformamide",CCN(CC)C=O,101.149,0.485,20.31,0,1,3,0,0,0.8,2,0.039
+Butyl acetate,CCCCOC(=O)C,116.16,1.35,26.3,0,2,3,0,0,0.833,2,0.046
+ethanol,OCC,46.069,-0.001,20.23,1,1,0,0,0,1,1,0.05
+2-Ethoxyethanol,CCOCCO,90.122,0.015,29.46,1,2,3,0,0,1,2,0.056
+Diethyl ketone,O=C(CC)CC,86.134,1.376,17.07,0,1,2,0,0,0.8,1,0.057
+Dimethyl sulfoxide,CS(=O)C,78.136,-0.005,17.07,0,1,0,0,0,1,2,0.061
+Propyl acetate,O=C(OCCC)C,102.133,0.96,26.3,0,2,2,0,0,0.8,2,0.062
+Dimethyl Glutarate,COC(=O)CCCC(=O)OC,160.169,0.503,52.6,0,4,4,0,0,0.714,4,0.062
+Butyronitrile,CCCC#N,69.107,1.31,23.79,0,1,1,0,0,0.75,1,0.064
+Methyl propyl ketone,O=C(C)CCC,86.134,1.376,17.07,0,1,2,0,0,0.8,1,0.068
+Propyl acetate,O=C(OCCC)C,102.133,0.96,26.3,0,2,2,0,0,0.8,2,0.071
+Dimethyl Glutarate,COC(=O)CCCC(=O)OC,160.169,0.503,52.6,0,4,4,0,0,0.714,4,0.071
+"1,2-Dichlorobenzene",c1ccc(c(c1)Cl)Cl,147.004,2.993,0,0,0,0,1,1,0,2,0.073
+Furfuryl alcohol,c1cc(oc1)CO,98.101,0.772,33.37,1,2,1,1,1,0.2,2,0.074
+ethanol,OCC,46.069,-0.001,20.23,1,1,0,0,0,1,1,0.076
+Methyl propyl ketone,O=C(C)CCC,86.134,1.376,17.07,0,1,2,0,0,0.8,1,0.081
+2-Methoxyethanol,COCCO,76.095,-0.375,29.46,1,2,2,0,0,1,2,0.085
+Propionic acid,CCC(=O)O,74.079,0.481,37.3,1,1,1,0,0,0.667,2,0.093
+"1,2-Dichlorobenzene",c1ccc(c(c1)Cl)Cl,147.004,2.993,0,0,0,0,1,1,0,2,0.099
+Toluene,Cc1ccccc1,92.141,1.995,0,0,0,0,1,1,0.143,0,0.1
+Benzene,c1ccccc1,78.114,1.687,0,0,0,0,1,1,0,0,0.103
+2-Nitropropane,CC(C)[N+](=O)[O-],89.094,0.672,43.14,0,2,1,0,0,1,3,0.106
+2-Methoxyethanol,COCCO,76.095,-0.375,29.46,1,2,2,0,0,1,2,0.112
+Butyronitrile,CCCC#N,69.107,1.31,23.79,0,1,1,0,0,0.75,1,0.113
+Toluene,Cc1ccccc1,92.141,1.995,0,0,0,0,1,1,0.143,0,0.114
+1-Ethyl-2-pyrrolidone,CCN1CCCC1=O,113.16,0.629,20.31,0,1,1,1,0,0.833,2,0.117
+"1,1,2,2-Tetrabromoethane",C(C(Br)Br)(Br)Br,345.654,3.218,0,0,0,1,0,0,1,4,0.132
+Propionic acid,CCC(=O)O,74.079,0.481,37.3,1,1,1,0,0,0.667,2,0.14
+1-Ethyl-2-pyrrolidone,CCN1CCCC1=O,113.16,0.629,20.31,0,1,1,1,0,0.833,2,0.145
+Acetic anhydride,CC(=O)OC(=O)C,102.089,0.096,43.37,0,3,0,0,0,0.5,3,0.149
+Ethyl acetate,O=C(OCC)C,88.106,0.569,26.3,0,2,1,0,0,0.75,2,0.158
+Methyl ethyl ketone,O=C(C)CC,72.107,0.985,17.07,0,1,1,0,0,0.75,1,0.166
+2-Nitropropane,CC(C)[N+](=O)[O-],89.094,0.672,43.14,0,2,1,0,0,1,3,0.167
+Benzene,c1ccccc1,78.114,1.687,0,0,0,0,1,1,0,0,0.184
+Acetic anhydride,CC(=O)OC(=O)C,102.089,0.096,43.37,0,3,0,0,0,0.5,3,0.191
+Dimethyl sulfoxide,CS(=O)C,78.136,-0.005,17.07,0,1,0,0,0,1,2,0.192
+Chlorobenzene,Clc1ccccc1,112.559,2.34,0,0,0,0,1,1,0,1,0.201
+Ethyl acetate,O=C(OCC)C,88.106,0.569,26.3,0,2,1,0,0,0.75,2,0.206
+Benzyl alcohol,C1=CC=C(C=C1)CO,108.14,1.179,20.23,1,1,1,1,1,0.143,1,0.21
+Vinyl acetate,C=COC(C)=O,86.09,0.693,26.3,0,2,1,0,0,0.25,2,0.231
+1-Nitropropane,CCC[N+](=O)[O-],89.094,0.673,43.14,0,2,2,0,0,1,3,0.232
+"1,1,2,2-Tetrabromoethane",C(C(Br)Br)(Br)Br,345.654,3.218,0,0,0,1,0,0,1,4,0.254
+Benzyl alcohol,C1=CC=C(C=C1)CO,108.14,1.179,20.23,1,1,1,1,1,0.143,1,0.256
+Methyl ethyl ketone,O=C(C)CC,72.107,0.985,17.07,0,1,1,0,0,0.75,1,0.287
+Chlorobenzene,Clc1ccccc1,112.559,2.34,0,0,0,0,1,1,0,1,0.303
+1-Nitropropane,CCC[N+](=O)[O-],89.094,0.673,43.14,0,2,2,0,0,1,3,0.307
+Trichloroethylene,Cl\C=C(/Cl)Cl,131.389,2.502,0,0,0,0,0,0,0,3,0.318
+Acetonitrile,CC#N,41.053,0.53,23.79,0,1,0,0,0,0.5,1,0.332
+Acetophenone,CC(=O)C1=CC=CC=C1,120.151,1.889,17.07,0,1,1,1,1,0.125,1,0.335
+Furfuryl alcohol,c1cc(oc1)CO,98.101,0.772,33.37,1,2,1,1,1,0.2,2,0.344
+"1,2,3-trichloropropane",ClCC(Cl)CCl,147.432,2.071,0,0,0,2,0,0,1,3,0.347
+N-Methyl-2-pyrrolidone,CN1CCCC1=O,99.133,0.239,20.31,0,1,0,1,0,0.8,2,0.347
+Acetophenone,CC(=O)C1=CC=CC=C1,120.151,1.889,17.07,0,1,1,1,1,0.125,1,0.352
+3-Chloroaniline,C1=CC(=CC(=C1)Cl)N,127.574,1.922,26.02,1,1,0,1,1,0,2,0.357
+Trichloroethylene,Cl\C=C(/Cl)Cl,131.389,2.502,0,0,0,0,0,0,0,3,0.363
+o-Toluidine,CC1=CC=CC=C1N,107.156,1.577,26.02,1,1,0,1,1,0.143,1,0.364
+"N,N-Dimethylacetamide",CN(C)C(C)=O,87.122,0.095,20.31,0,1,0,0,0,0.75,2,0.369
+"N,N-Dimethylformamide",CN(C)C=O,73.095,-0.296,20.31,0,1,1,0,0,0.667,2,0.374
+Vinyl acetate,C=COC(C)=O,86.09,0.693,26.3,0,2,1,0,0,0.25,2,0.379
+Acetonitrile,CC#N,41.053,0.53,23.79,0,1,0,0,0,0.5,1,0.391
+Phenol,C1=CC=C(C=C1)O,94.113,1.392,20.23,1,1,0,1,1,0,1,0.391
+"1,2,3-trichloropropane",ClCC(Cl)CCl,147.432,2.071,0,0,0,2,0,0,1,3,0.403
+N-Methyl-2-pyrrolidone,CN1CCCC1=O,99.133,0.239,20.31,0,1,0,1,0,0.8,2,0.41
+Nitromethane,C[N+](=O)[O-],61.04,-0.107,43.14,0,2,0,0,0,1,3,0.431
+Nitrobenzene,C1=CC=C(C=C1)[N+](=O)[O-],123.111,1.595,43.14,0,2,1,1,1,0,3,0.435
+"1,4-Dioxane",O1CCOCC1,88.106,0.033,18.46,0,2,0,1,0,1,2,0.451
+"1,1,2-Trichloroethane",ClCC(Cl)Cl,133.405,2.029,0,0,0,1,0,0,1,3,0.453
+Pyridine,C1=CC=NC=C1,79.102,1.082,12.89,0,1,0,1,1,0,1,0.453
+"N,N-Dimethylformamide",CN(C)C=O,73.095,-0.296,20.31,0,1,1,0,0,0.667,2,0.463
+"1,2-Dichloroethane",ClCCCl,98.96,1.464,0,0,0,1,0,0,1,2,0.478
+"N,N-Dimethylacetamide",CN(C)C(C)=O,87.122,0.095,20.31,0,1,0,0,0,0.75,2,0.486
+"1,4-Dioxane",O1CCOCC1,88.106,0.033,18.46,0,2,0,1,0,1,2,0.553
+Nitromethane,C[N+](=O)[O-],61.04,-0.107,43.14,0,2,0,0,0,1,3,0.563
+3-Chloroaniline,C1=CC(=CC(=C1)Cl)N,127.574,1.922,26.02,1,1,0,1,1,0,2,0.572
+o-Toluidine,CC1=CC=CC=C1N,107.156,1.577,26.02,1,1,0,1,1,0.143,1,0.588
